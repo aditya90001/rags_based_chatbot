@@ -1,0 +1,194 @@
+
+
+About:
+GDG on Campus AKGEC is a student-focused Google Developer Group on Campus. The group promotes learning, collaboration, and real-world development using Google technologies. It focuses on Web Development, Machine Learning, App Development, and Management. Its mission is to create a healthy developer culture on campus, support students in building real projects, grow skills in modern technologies, and promote peer learning, workshops, and community events.
+
+Team Roles:
+- Co-Organizers: Coordinate events and activities
+- Core Team Members: Lead domain areas and projects
+- Web Developers: Build websites and web applications
+- App Developers: Build mobile or desktop applications
+- Designers: UI/UX and graphics design
+- Machine Learning Engineers: Implement ML solutions and AI projects
+- Volunteers: Support community events and outreach
+
+Sample Team Members:
+1. Ritvik Sharma – Machine Learning Engineer
+2. Priyanshu Mishra – Role not listed
+3. Shatakshi – Role not listed
+4. Hritik Raj – Role not listed
+5. Tarun Lalwani – Core Team Member
+6. Nandini Sharma – Volunteer
+7. Namrata Yadav – App Developer
+8. Nitish Kumar – UI/UX Designer
+9. Ananya Jain – Web Developer
+10. Aikansh Tiwari – Core Team Member
+11. Vishal Malyan – Web Developer
+12. Aryan Singhal – Web Developer
+13. Ashutosh Pal – Member
+14. Yuga Jaiswal – Co-Organizer
+15. Ujjwal Singh – Designer
+16. Satyam Paswan – Designer
+17. Vanshika Pandey – Co-Organizer
+18.Mustafa he is machine learning members 
+
+
+Notes:
+- GDG on Campus AKGEC is part of the global Google Developer Groups network.
+- Teams often change yearly, so the official /team page contains the current list of organizers and members.
+- The group organizes workshops, hackathons, and projects for students.
+Source: GDG on Campus AKGEC GitHub Organization
+Website: https://github.com/dsc-akgec
+Organization: GDG on Campus AKGEC
+Location: Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India
+
+Overview:
+GDG on Campus AKGEC maintains several project repositories on GitHub that contain probation projects, contests, and community contributions. These repositories are organized by year and often include student submissions in web development, machine learning, app development, design, and other technical domains. :contentReference[oaicite:0]{index=0}
+
+Repository: Probation-Projects-2022
+Description: A public repository containing probation projects for the year 2022. Students contribute their individual project folders following contribution guidelines. Topics include machine learning, web development, app development, UI/UX designing, and managerial tasks. It is licensed under Apache-2.0. :contentReference[oaicite:1]{index=1}
+
+Repository: Probation-Projects-2023
+Description: Probation projects repository for 2023. Structured similarly to other probation repositories with folders likely created by individual contributors. The topics include machine-learning, web-development, app-development, UI/UX-designing, managerial tasks, and are categorized with relevant topics. Apache-2.0 license. :contentReference[oaicite:2]{index=2}
+
+Repository: Probation-Projects-2024
+Description: Repository for probation projects for the year 2024. Contributors have added folders for their tasks, though no overall description or topics are provided in the README. It contains project submissions and is intended for students to contribute probation work. :contentReference[oaicite:3]{index=3}
+
+Repository: Probation-Projects-2025
+Description: A 2025 probation projects repository that is open for contributions. Pull requests show various student project additions such as “Quiz App” and other personal submissions. This repository contains ongoing work from contributors and is actively receiving new project additions. :contentReference[oaicite:4]{index=4}
+
+Repository: Prologue2.0
+Description: A repository likely associated with a specific contest, event, or project submission called “Prologue 2.0.” It contains code files and materials submitted as part of the project. :contentReference[oaicite:5]{index=5}
+
+Repository: Research-Internships-for-Undergraduates
+Description: A repository listing research internships for undergraduate students. It provides external internship opportunities and may serve as a resource for GDG AKGEC members. :contentReference[oaicite:6]{index=6}
+
+Pinned & Additional Repositories:
+- GDSC-Bulletin: Contains bulletin information for the GDG/DSC community. :contentReference[oaicite:7]{index=7}  
+- ML-Study-Jams-Contest: Code files for a Machine Learning study contest. :contentReference[oaicite:8]{index=8}
+
+Project Domains & Topics Covered:
+- **Web Development**: Students build real-world websites or front-end interfaces. :contentReference[oaicite:9]{index=9}  
+- **Machine Learning Projects**: Projects related to data science, prediction models, or ML workflows. :contentReference[oaicite:10]{index=10}  
+- **App Development**: Android, Flutter, or hybrid mobile app projects by contributors. :contentReference[oaicite:11]{index=11}  
+- **UI/UX Designing**: Design-oriented tasks submitted by students focusing on interfaces and usability. :contentReference[oaicite:12]{index=12}  
+- **Managerial & Collaboration Projects**: Submissions include project documentation, organization tasks, and events or collaborative work examples. :contentReference[oaicite:13]{index=13}
+
+Example Individual Projects (inferred):
+- “Quiz App”: A student project added to the 2025 probation repository. :contentReference[oaicite:14]{index=14}  
+- Various student folders exist in the 2022, 2023, and 2024 repositories containing individual code submissions and project files (e.g., assignments, notebooks, HTML/CSS/JS code). :contentReference[oaicite:15]{index=15}
+
+Usage Notes:
+- Probation repositories follow similar contribution guidelines with instructions to fork, create a branch, add project folder, and submit a pull request. :contentReference[oaicite:16]{index=16}  
+- These repositories serve as a **community project showcase** for students within GDG AKGEC, often aligned with academic probation tasks or technical skill assignments. :contentReference[oaicite:17]{index=17}
+GDSC AKGEC is a student developer club at Ajay Kumar Garg Engineering College affiliated with AKTU.
+
+Faculty:
+- Rahul Sharma (HOD)
+- Birendra Kumar (Coordinator)
+
+Student Leads:
+- Shreya Pal (Organizer)
+- Ananya Jain
+- Sankalp Jha
+- Abhishek Kumar
+
+Events 2024-25:
+- Build with AI
+- Tech Winter Break
+- Google Solution Challenge 2025
+
+Events 2023-24:
+- ML Study Jams
+- Web Weave
+- TensorFlow Power Up
+- Flutter Forward Extended
+- GDSC WoW
+- Week of Learning
+
+Focus:
+AI, ML, Web, Cloud, App Development
+Activities:
+Workshops, Hackathons, Study Jams, Projects
+Linkedin url of gdg akgec =https://www.linkedin.com/company/google-developer-groups-on-campus-akgec/posts/?feedView=all
+
+TYPE: achievements + events + community
+
+---
+
+[ACHIEVEMENT] Google Summer of Code 2025 Selection
+Sankalp Jha from GDG AKGEC has been selected for Google Summer of Code 2025 under the P4 Language Consortium. This achievement highlights strong open-source contribution and global recognition.
+
+---
+
+[ACHIEVEMENT] Linux Foundation Mentorship 2025
+Abhishek Kumar from GDG AKGEC has been selected for the Linux Foundation Mentorship Program 2025 under CNCF KubeEdge. This reflects expertise in cloud-native technologies and open-source.
+
+---
+
+[ACHIEVEMENT] Code for GovTech (C4GT) 2025
+Akarsh Sahlot has been selected for Code for GovTech 2025 among thousands of applicants. He contributes to national-level digital infrastructure using AI and Web3 technologies.
+
+---
+
+[ACHIEVEMENT] Open Source Contributions
+Members of GDG AKGEC actively contribute to open-source projects in domains such as AI, Web3, and cloud computing.
+
+---
+
+[EVENT] Build with AI
+Build with AI is a workshop focused on developing AI-powered applications using modern frameworks and tools.
+
+---
+
+[EVENT] Tech Winter Break
+Tech Winter Break is a learning initiative where students explore technologies, build projects, and enhance development skills.
+
+---
+
+[EVENT] Google Solution Challenge
+Google Solution Challenge is a global competition where participants build solutions aligned with UN Sustainable Development Goals.
+
+---
+
+[EVENT] ML Study Jams
+ML Study Jams is a guided program to learn machine learning concepts and implement them using TensorFlow.
+
+---
+
+[EVENT] TensorFlow Power Up
+TensorFlow Power Up focuses on deep learning concepts with hands-on TensorFlow training.
+
+---
+
+[EVENT] Web Weave
+Web Weave is a web development event where participants build modern and responsive websites.
+
+---
+
+[EVENT] Flutter Forward Extended
+Flutter Forward Extended introduces cross-platform mobile app development using Flutter.
+
+---
+
+[EVENT] Week of Learning
+Week of Learning is a structured multi-domain program covering AI, Web, and Cloud technologies.
+
+---
+
+[EVENT] CommitCon Participation
+GDG AKGEC members participated in CommitCon, contributing to open-source and networking with developers.
+
+---
+
+[COMMUNITY] Organizer Announcement
+Shreya Pal was announced as the Organizer of GDG AKGEC, leading the community towards innovation and growth.
+
+---
+
+[COMMUNITY] Community Growth
+GDG AKGEC is a growing developer community with active participation in workshops, hackathons, and technical events.
+
+---
+
+KEYWORDS: GDG AKGEC, GSoC, Linux Foundation, C4GT, AI, Web Development, Cloud Computing, Open Source, Hackathons, Workshops
