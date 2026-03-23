@@ -8,7 +8,7 @@ from ai_agent import get_response_from_ai_agent, load_documents_rag
 
 app = FastAPI(title="Agentic AI Chatbot")
 
-# ✅ CORS
+# CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -17,13 +17,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ✅ Allowed models
 ALLOWED_MODEL_NAMES = [
     "llama-3.3-70b-versatile",
     "deepseek-ai/DeepSeek-R1"
 ]
 
-# ✅ Request schema
 class RequestState(BaseModel):
     model_name: str
     model_provider: str
@@ -32,16 +30,20 @@ class RequestState(BaseModel):
     allow_search: bool
     use_rag: bool = True
 
-# 🔥 Preload RAG documents at startup
+# Safer startup
 @app.on_event("startup")
 def startup_event():
-    print("Starting up backend...")
-    try:
-        print("Loading RAG documents...")
-        load_documents_rag(folder_path="docs")
-        print("RAG documents loaded successfully ✅")
-    except Exception as e:
-        print("RAG loading error:", e)
+    print("Starting backend...")
+
+    if os.path.exists("docs"):
+        try:
+            print("Loading RAG documents...")
+            load_documents_rag(folder_path="docs")
+            print("RAG loaded successfully")
+        except Exception as e:
+            print("RAG loading error:", e)
+    else:
+        print("No docs folder found, skipping RAG load")
 
 @app.get("/")
 def health():
@@ -61,15 +63,17 @@ def chat_endpoint(request: RequestState):
             provider=request.model_provider,
             use_rag=request.use_rag
         )
-
         return {"response": response}
 
     except Exception as e:
         print("Backend error:", e)
         return {"error": str(e)}
 
+
+# 🚀 IMPORTANT: production run
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))
     print(f"Starting backend on 0.0.0.0:{port}")
+
     import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=port, reload=True)
+    uvicorn.run(app, host="0.0.0.0", port=port)
