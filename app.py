@@ -11,8 +11,9 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 import streamlit as st 
-
-
+import os 
+GROQ_API_KEY = os.getenv("GROQ_API_KEY") or st.secrets.get("GROQ_API_KEY")
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY") or st.secrets.get("TAVILY_API_KEY")
 # 🤖 LLM
 @st.cache_resource
 def get_llm():
