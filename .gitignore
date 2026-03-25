@@ -1,18 +1,3 @@
-# env files
 .env
-
-# Python
-__pycache__/
-*.pyc
-
-# virtual environment
 venv/
-env/
-
-# logs
-*.log
-
-# OS files
-.DS_Store
-Thumbs.db
-
+__pycache__/

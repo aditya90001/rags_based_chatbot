@@ -1,0 +1,406 @@
+[CHUNK 1]
+Title: About AKGEC
+Content: Ajay Kumar Garg Engineering College (AKGEC) is a top private engineering college located in Ghaziabad, Uttar Pradesh (Delhi NCR). Established in 1998, affiliated to Dr. APJ Abdul Kalam Technical University (AKTU), Lucknow. College Code: 027. Offers B.Tech, M.Tech (ECE, CSE, EEE, ME) and MCA. First and only college in UP to receive Academic Excellence Award for Best Engineering College in UPTU for two consecutive years. Address: 27th Km Milestone, Delhi-Meerut Expressway, P.O. Adhyatmik Nagar, Ghaziabad - 201015. Phone: 8744052891-93. Email: info@akgec.ac.in.
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 2]
+Title: Key Statistics
+Content: AKGEC has 15+ programs, 15+ R&D Centers, and 5000+ students. Over 2000+ students placed, 213 students in University Merit List, and 19,000+ graduates. Industry partners include Fronius, Janatics, KUKA, Messer, Mitsubishi, Pepperl, Rexroth, Schunk, Siemens, Stratasys, Zeiss, and National Instruments.
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 3]
+Title: B.Tech Programs and Intake
+Content: AKGEC offers B.Tech programs with sanctioned intake:
+- CSE: 180
+- CSE-AIML: 120
+- CSE-DS: 120
+- CS: 150
+- CSE-Hindi: 60
+- AI&ML: 60
+- IT: 180
+- CSIT: 120
+- ECE: 180
+- ME: 60
+- EN: 60
+- CE: 30
+Total B.Tech intake: 1320 seats.
+Source: https://www.akgec.ac.in/courses-offered/
+---
+[CHUNK 4]
+Title: M.Tech Programs and Intake
+Content: M.Tech programs with intake:
+- CSE: 18
+- EEE: 18
+- ECE: 18
+- ME: 9
+Total M.Tech intake: 63 seats.
+Source: https://www.akgec.ac.in/courses-offered/
+---
+[CHUNK 5]
+Title: MCA and MBA Programs
+Content: MCA: 120 seats, 2-year program. MBA through AKGIM: 120 seats. 
+Source: https://www.akgec.ac.in/courses-offered/
+---
+[CHUNK 6]
+Title: B.Tech 1st Year Fees 2025-26
+Content: Registration: Rs. 1,500, Tuition & Development: Rs. 1,11,256, Medical: Rs. 1,500, Book Bank: Rs. 2,900, Activity: Rs. 10,000, Career Planning & Placement: Rs. 10,000, Caution Money: Rs. 5,000. TOTAL: Rs. 1,42,156. University charges extra. Includes medical insurance & OPD checkup.
+Source: https://www.akgec.ac.in/fee-new-students/
+---
+[CHUNK 7]
+Title: B.Tech Fee Waiver Scheme 2025-26
+Content: Reduced total: Rs. 41,014. Includes Registration Rs. 1,500, Development Rs. 10,114, Medical Rs. 1,500, Book Bank Rs. 2,900, Activity Fee Rs. 10,000, Career Planning Rs. 10,000, Caution Money Rs. 5,000.
+Source: https://www.akgec.ac.in/fee-new-students/
+---
+[CHUNK 8]
+Title: Hostel Fee 2025-26
+Content: Boys Double Seater: Rs. 1,40,000, Triple: Rs. 1,30,000. Girls Triple: Rs. 1,30,000. Includes Rent & Mess + Security Deposit.
+Source: https://www.akgec.ac.in/fee-new-students/
+---
+[CHUNK 9]
+Title: MCA Fees 2025-26
+Content: Registration Rs. 1,500, Tuition & Development Rs. 1,11,256, Medical Rs. 1,500, Book Bank Rs. 3,200, Activity Rs. 5,000, PDP Rs. 3,500, Career Planning Rs. 5,000, Caution Money Rs. 5,000. TOTAL: Rs. 1,35,956. University fees extra.
+Source: https://www.akgec.ac.in/fee-new-students/
+---
+[CHUNK 10]
+Title: M.Tech Fees and Scholarships 2025-26
+Content: Semester I: Rs. 63,628, Semester II: Rs. 55,628. Total Annual: Rs. 1,19,256. Scholarships: 65% B.Tech: 25% tuition, 70%: 50%, 75%: 75%, 80%: 100%. Hostel Fee: Boys Single Rs. 1,50,000, Triple Rs. 1,30,000, Girls Double Rs. 1,40,000, Triple Rs. 1,30,000.
+Source: https://www.akgec.ac.in/fee-new-students/
+---
+[CHUNK 11]
+Title: Placement Records
+Content: 2000+ students placed. Major recruiters: Wipro, Samsung, NIIT, Tech Mahindra, Lava, MAQ Software, Jakson, Infotech, Cube, HCL, Grape Technologies, Global Logic. Companies from IT, core engineering, and management sectors.
+Source: https://www.akgec.ac.in/placements/placement-records/
+---
+[CHUNK 12]
+Title: Training & Placement Department
+Content: Dedicated T&P department runs programs & activities year-round. Placement Brochure for companies available. 2000+ students placed successfully.
+Source: https://www.akgec.ac.in/placements/tp-department/
+---
+[CHUNK 13]
+Title: Departments
+Content: Applied Sciences & Humanities, Civil, CSE, ECE, EEE, IT, ME, Electronics & Instrumentation, MCA.
+Source: https://www.akgec.ac.in/departments/
+---
+[CHUNK 14]
+Title: Departmental Societies
+Content: Conatus (CSE), Nirmaan (Civil), Oorja (EEE), Phoenix (ECE/IT), Samveg (ME)
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 15]
+Title: Extra-Curricular Societies
+Content: Euphony (Music), Footprints (Dance), Horizon (Literary), Goonj (Cultural), Renaissance, Taal, Verve, Photography & Media Club, Sports Club
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 16]
+Title: Student Chapters
+Content: CSI, Indian Concrete Institute, Robotics Club, IEEE Student Branch, ISTE, SAE India
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 17]
+Title: Technical Clubs
+Content: Electronics Club, Communication Club
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 18]
+Title: Academic Resources
+Content: Academic Calendar, Holidays, Digital School, Syllabus, Verification Services, Policy for Refund of Caution Money, Certificate Issuance
+Source: https://www.akgec.ac.in/academics/
+---
+[CHUNK 19]
+Title: Admission Process
+Content: Through UPTAC Counselling. Portal: admissions.akgec.ac.in. Info Booklet available. Fee refund norms & scholarships available for B.Tech & MCA students.
+Source: https://www.akgec.ac.in/admission-through-uptac-counselling-2025-26/
+---
+[CHUNK 20]
+Title: Research & Development
+Content: 15+ R&D Centers. Activities: Journals, Conference Papers, Book Chapters, Patents, Funded Projects. Journals: AKGEC Int. Journal of Technology, Glimpse Journal of CSE. Conferences, FDPs, Consultancy. Industry partnerships: Fronius, KUKA, Siemens, Mitsubishi, Rexroth, Schunk, Zeiss.
+Source: https://www.akgec.ac.in/rd/
+---
+[CHUNK 21]
+Title: Infrastructure & Facilities
+Content: Central Library, Academic Complex, Hostels, Centres of Excellence, Faith Centre, Sports, Gym, Stationary, Canteen, Grievance Committee, Mediclaim, IQAC. Virtual tour available online.
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 22]
+Title: Value Education Cell (VE Cell)
+Content: FDPs/SDPs, Student Development, Induction, UHV Seminars, Guest Lectures/Webinars, Nature Club, Sustainability Club, Extension Activities, Teachers Orientation, UHV Projects: SPC, Samriddhi Pravaah
+Source: https://www.akgec.ac.in/ve-cell/
+---
+[CHUNK 23]
+Title: Social Responsibilities
+Content: Green Audit, NCC, Unnat Bharat Abhiyaan & NSS, Expert Talks, Nature Club, Adarsh Vikas Kendra, Blood Donation Camp, Eco-Friendly initiatives, Skill Development Programme for Villages & PMKVY
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 24]
+Title: Achievements & Awards
+Content: NBA Accreditation, AICTE Approval, NIRF Rankings. Notable alumni: Shivam Agarwal (15 social problem-solving projects at Rashtrapati Bhawan), Ishu Bansal (Founder TruckSuvidha, Logistics Technology Award at LEAPS 2024).
+Source: https://www.akgec.ac.in/achievements/
+---
+[CHUNK 25]
+Title: Upcoming Events 2026
+Content: Alumni & Industry Meet 2026, 21st Annual Convocation (20 March 2026), Degrees conferred by Prof. J. P. Pandey (AKTU VC), Address by Prof. T. G. Sitharam (IISc Bengaluru, ex-AICTE Chairman)
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 26]
+Title: Contact Information
+Content: Address: 27th Km Milestone, Delhi-Meerut Expressway, Ghaziabad - 201015. Phone: 8744052891-93. Email: info@akgec.ac.in. ERP Portal: erp.akgec.ac.in. Alumni Portal: akgec.almaconnect.com. Admissions: admissions.akgec.ac.in. MBA: akgim.edu.in
+Source: https://www.akgec.ac.in/
+---
+[CHUNK 27]
+Title: Important Links
+Content: Online Fee Payment: https://rzp.io/l/RUtvnoEr. Anti-Ragging: https://www.akgec.ac.in/online-reporting-of-ragging-cases/. Grievance: https://www.akgec.ac.in/grievance-committee/. Internal Complaints: https://www.akgec.ac.in/internal-complaints-committee/. Mandatory Disclosure: https://www.akgec.ac.in/mandatory-disclosure/. NIRF 2025: https://www.akgec.ac.in/nirf-data-for-ranking-2025/. OER: https://www.akgec.ac.in/rd/open-educational-resources-oer/. Careers: https://www.akgec.ac.in/careers/
+Source: https://www.akgec.ac.in/
+---
+# AKGEC PLACEMENT RAG DATASET
+# Source: Official AKGEC website + NIRF Reports + Shiksha, Careers360, Collegedunia, Zollege, CollegeDekho, TargetAdmission
+# Generated: March 2026
+# Coverage: Placement Records, Statistics, Branch-wise Data, Recruiters, Job Roles, T&P, Internships, FAQs
+# ============================================================
+
+## SECTION: Placement Overview and Key Highlights
+Source URL: Official AKGEC website, NIRF 2024-25, Multiple Education Portals
+
+Ajay Kumar Garg Engineering College (AKGEC) has a strong and consistent placement record. The Training and Placement (T&P) Cell organizes pre-placement training, workshops, mock interviews, and campus drives every year. AKGEC is accredited by NAAC with A++ grade. NBA accreditation is held for B.Tech branches: CSE, IT, ECE, EN, and ME.
+
+Key recognition:
+- Only engineering college in UP with NAAC A++ accreditation
+- Academic Excellence Trophy for "Best Engineering College in UPTU" for two successive years
+- Best LabVIEW Academy in India Award 2016 by National Instruments
+- Best Technology Infrastructure of the Year Award 2018 by AI Council for Robotics and Automation
+
+---
+
+## SECTION: Placement Statistics - 2024 (Most Recent Full Data)
+Source URL: NIRF Data 2024, Shiksha, Careers360, CollegeDekho
+
+Overall Placement 2024:
+- Total Eligible UG Students: 1,153
+- Total UG Students Placed: 1,080 (~94% placement rate)
+- Total PG Students: 13, PG Students Placed: 10
+- Highest Package (on-campus): INR 55 LPA
+- Highest Package (off-campus/overall): INR 55.5 LPA
+- Average Package: INR 5.35–5.49 LPA
+- Median Package (UG): INR 5.5 LPA
+- Median Package (PG): INR 4.75 LPA
+- Total Recruiters Participated: 291–310 companies
+- Total Job Offers Made: 1,476
+
+CSE Department (2024): Average Package INR 5.61 LPA
+MCA (2024): Total Offers 24, Exclusive Offers 21, Companies Participated 40
+
+---
+
+## SECTION: Placement Statistics - 2025 (Partial / Latest Available)
+Source URL: Shiksha, Careers360, CollegeDekho
+
+- Total Offers Made (2025): 1,096
+- Exclusive Offers: 739
+- Total Students Registered: 1,133
+- Recruiters Participated: 225
+- Highest Package: INR 30 LPA
+- Average Package: INR 5.49 LPA (2024 data carried forward)
+- Top Recruiters 2025: Goldman Sachs, Google, Amazon, Microsoft
+
+Note: Official 2025 placement report not fully released as of March 2026; partial info from portals.
+
+---
+
+## SECTION: Year-wise Placement Trends (Historical Data)
+Source URL: Zollege, Shiksha, TargetAdmission, Official AKGEC Data
+
+| Academic Year | Total Offers | Exclusive Offers | Higher Studies |
+|---------------|-------------|-----------------|  
+| 2018-19       | 964         | 543             | 50  
+| 2019-20       | 974         | 563             | 30  
+| 2020-21       | 1,329       | 598             | 15  
+| 2021-22       | 2,008       | 767             | 10  
+| 2022-23       | 1,652       | 894             | 11  
+| 2023-24       | 1,476       | ~800+           | ~10  
+
+2022 Placement Highlights:
+- Total Students Registered: 973
+- Total Placed: 757
+- Total Offers: 1,998
+- Highest Package: INR 1.13 Crore P.A. (Amazon, CSE)
+- Lowest Package: INR 1.20 Lakh P.A.
+- Average Package: INR 5.13 LPA
+- Median Package: INR 4.50 LPA
+- Students receiving above 20 LPA: 38
+- Students receiving 10–20 LPA: 41
+- Students receiving 5–10 LPA: 507
+- Students receiving below 5 LPA: 1,412
+- Total Recruiters: 225
+
+---
+
+## SECTION: Branch-wise Placement Data (2022-23)
+Source URL: Zollege, Official AKGEC Placement Brochure
+
+| Branch | Total Offers | Exclusive Offers |
+|--------|-------------|-----------------|  
+| CSE    | 400         | 181  
+| IT     | 340         | 177  
+| ECE    | 307         | 164  
+| ME     | 114         | 80  
+| EN     | 107         | 13  
+| CSIT   | 139         | 63  
+| CS     | 131         | 61  
+| CE     | 48          | 39  
+| MCA    | 45          | 39  
+
+Observations:
+- CSE & IT dominate placements
+- ECE also strong
+- Civil & Mechanical face challenges
+- MCA 2024: 24 offers, 21 exclusive
+
+---
+
+## SECTION: Package Trends (Year-wise)
+Source URL: Shiksha, Careers360, TargetAdmission
+
+| Year | Highest Package | Average Package |
+|------|----------------|----------------|  
+| 2022 | INR 1.13 Crore | INR 5.13 LPA  
+| 2023 | INR 30 LPA     | INR 5.22 LPA  
+| 2024 | INR 55–55.5 LPA| INR 5.35–5.49 LPA  
+| 2025 | INR 30 LPA     | INR 5.49 LPA (est.)  
+
+Notes: Exceptional packages (1.13 Cr, 55 LPA) usually off-campus or coding-contest based; median package is more realistic.
+
+---
+
+## SECTION: Top Recruiters
+Source URL: Official AKGEC website, NIRF, Multiple portals
+
+Tier 1: Microsoft, Google, Amazon, Goldman Sachs, American Express, Adobe, Accenture, Deloitte, PwC, IBM, TCS, Infosys, Wipro, HCL, Tech Mahindra, Cognizant
+
+Other Notable: Samsung, Airtel, HSBC, PhonePe, C2FO, Maersk, Ericsson, Scaler, MAQ Software, Newgen Software, Nucleus Software, Lava, L&T Infotech, Rockwell Automation, Saint-Gobain, Jakson Group, NEC, MIND, OLA Electric, OSS Cube, SaaS Focus, Lohia Group, ACE Micromatic, Hitachi, Walmart, Nexus QA InfoTech
+
+Mass Recruiters: Infosys, TCS, Wipro, HCL, Accenture
+
+---
+
+## SECTION: Job Roles Offered
+Source URL: Placement Portals
+
+Common roles: Software Developer, Full Stack Developer, Data Analyst / Data Scientist, Web Developer, Graphic Designer, Sales Executive, System Analyst, IT Consultant, R&D Engineer, Core Engineering roles
+
+Alumni Field Distribution:
+- Engineering: 3,395
+- IT: 956
+- Business Dev: 438
+- Operations: 430
+- Education: 399
+- Consulting: 277
+- Research: 247
+
+---
+
+## SECTION: Alumni Distribution by Company
+Source URL: Zollege (LinkedIn aggregated)
+
+| Organization | Alumni Count |
+|--------------|-------------|
+| TCS          | 236  
+| Infosys      | 191  
+| Accenture    | 187  
+| HCLTech      | 113  
+| Cognizant    | 95  
+| Newgen Software | 71  
+
+Total Graduates: 19,000+ | Total Placed (recent years): 2,000+
+
+---
+
+## SECTION: Training & Placement Department (T&P Cell)
+Source URL: Official AKGEC website, TargetAdmission
+
+- Pre-placement training & workshops
+- Mock interviews & group discussions
+- Personality Development Programs (PDPs)
+- Infosys Campus Connect Program (faculty & student)
+- Hackathons & coding competitions
+- Internships for all branches
+- Workshops with industry experts
+- Campus drives & off-campus support
+
+Fee: Rs. 10,000 one-time for B.Tech students
+
+---
+
+## SECTION: Placement Observations by Branch (Student Reviews)
+Source URL: Careers360, CollegeDekho, Collegedunia
+
+CSE/CS/IT/CSIT/AI-ML/Data Science: Strong placement, 5–7 LPA avg, top packages 20–55 LPA, companies like Amazon, Google, Infosys, TCS, Accenture  
+ECE: Good placements, avg 4–7 LPA, companies Ericsson, Samsung, Airtel  
+EN: Moderate placements, avg 4–6 LPA  
+ME: Mainly through Infosys/management, avg 4–5 LPA  
+CE: Challenging branch, 5–10 students per year, mostly IT/management  
+
+---
+
+## SECTION: College Rankings (Placement Context)
+Source URL: India Today, Outlook, Times, NIRF 2024
+
+- India Today 2024: 49th Private Engg, 77th Overall Engg  
+- Outlook 2024: 44th Engg Category  
+- Times 2024: 149th Engg Category  
+- NIRF 2024: Band 250–300 Engg  
+- QS I-Gauge: Gold Rating  
+- NAAC: A++  
+- NBA Accreditation: B.Tech branches (CSE, IT, ECE, EN, ME)
+
+---
+
+## SECTION: Internship Opportunities
+Source URL: Official AKGEC website, Student Reviews
+
+- Summer internships after 2nd year  
+- Pre-placement offers (PPOs)  
+- Industry training through T&P Cell  
+- Collaboration with Siemens, KUKA, Infosys, etc.
+
+---
+
+## SECTION: Placement-Related Scholarships
+Source URL: Official AKGEC data, SelectYourUniversity
+
+- 2023: INR 2.52 crore to 438 students (Gen, SC/ST, OBC, Minority)  
+- Helps economically weaker students prepare without financial burden  
+
+---
+
+## SECTION: Frequently Asked Questions (Placement)
+Source URL: Official AKGEC website, Shiksha, Careers360
+
+Q: Highest package?  
+A: On-campus INR 55 LPA (2024), All-time highest INR 1.13 Cr (Amazon, CSE, 2022)  
+
+Q: Average package?  
+A: INR 5.35–5.49 LPA  
+
+Q: Placement rate?  
+A: ~94% UG (2024), overall 78–94% depending on year  
+
+Q: Best branch for placement?  
+A: CSE > IT > CSIT > CS > ECE; Civil & Mechanical lowest  
+
+Q: MCA placements?  
+A: Reasonable; 24 offers, 21 exclusive (2024)  
+
+Q: Major recruiters?  
+A: Microsoft, Google, Amazon, TCS, Infosys, Wipro, HCL, Accenture, Tech Mahindra, HSBC, Deloitte, IBM, PhonePe, Goldman Sachs, etc.  
+
+Q: Internships?  
+A: Provided for all branches, via T&P Cell & industry partners  
+
+Q: NIRF Median Package PG?  
+A: INR 5 LPA (2024)  
+
+Q: Placement comparison?  
+A: Slight edge over ABESEC for CSE placements  
+
+---
+
+END OF AKGEC PLACEMENT DATASET
